@@ -8,5 +8,5 @@ pip install requests
 ______________________
 # How to Run
 
-php HackWebV1.php [web]
+php HackWeb.php [web]
 
